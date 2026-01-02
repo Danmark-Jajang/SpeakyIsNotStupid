@@ -24,7 +24,7 @@ cd SpeakyIsNotStupid
 pip3 install rumps py2app
 ```
 
-## 개발 모드 실행(테스트용)
+# 개발 모드 실행(테스트용)
 ```bash
 python3 speaki_push.py
 ```
@@ -45,7 +45,7 @@ open dist/speaki_push.app
 일반 -> 로그인 항목 및 확장 프로그램에서 빌드한 앱을 넣으면 꺼지더라도 귀여운 스핔이를 다시 볼 수 있습니다
 
 ## 설치 2 (zip받기)
-같이 올라가있는 `speaki_push.zip`파일을 풀어 안에 있는 app파일을 실행시키면 됩니다
+같이 올라가있는 `speaki_push.zip`파일을 풀어 안에 있는 app파일을 실행시키면 됩니다.
 이 파일 또한 일반 -> 로그인 항목 및 확장 프로그램에서 빌드한 앱을 넣으면 꺼지더라도 귀여운 스핔이를 다시 볼 수 있습니다
 
 ## 파일 구조
