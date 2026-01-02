@@ -1,12 +1,12 @@
 # Speaky - 메뉴바 애니메이션 앱 🧹
 
-macOS 메뉴바에 귀여운 애니메이션 캐릭터를 표시하는 앱입니다.
+macOS 메뉴바에 귀여운 스핔이를 구경하세요
 
 ## 기능
 
 - 메뉴바에서 6프레임 애니메이션 재생
 - 백그라운드에서 실행 (Dock에 표시 안 됨)
-- 가볍고 간단한 인터페이스
+- 이외에 없음
 
 ## 요구사항
 
@@ -17,14 +17,14 @@ macOS 메뉴바에 귀여운 애니메이션 캐릭터를 표시하는 앱입니
 ## 설치
 ```bash
 # 저장소 클론
-git clone https://github.com/yourusername/SpeakyIsNotStupid.git
+git clone https://github.com/Danmark-Jajang/SpeakyIsNotStupid.git
 cd SpeakyIsNotStupid
 
 # 필요한 패키지 설치
 pip3 install rumps py2app
 ```
 
-## 개발 모드 실행
+## 개발 모드 실행(테스트용)
 ```bash
 python3 speaki_push.py
 ```
@@ -42,6 +42,7 @@ open dist/speaki_push.app
 ```
 
 빌드된 앱은 `dist/speaki_push.app`에 생성되며, Applications 폴더로 복사해서 사용할 수 있습니다.
+일반 -> 로그인 항목 및 확장 프로그램에서 빌드한 앱을 넣으면 꺼지더라도 귀여운 스핔이를 다시 볼 수 있습니다
 
 ## 파일 구조
 ```
