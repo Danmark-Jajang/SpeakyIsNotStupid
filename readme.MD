@@ -14,7 +14,7 @@ macOS 메뉴바에 귀여운 스핔이를 구경하세요
 - Python 3.x
 - rumps 라이브러리
 
-## 설치
+## 설치 1 (직접 빌드하기)
 ```bash
 # 저장소 클론
 git clone https://github.com/Danmark-Jajang/SpeakyIsNotStupid.git
@@ -43,6 +43,10 @@ open dist/speaki_push.app
 
 빌드된 앱은 `dist/speaki_push.app`에 생성되며, Applications 폴더로 복사해서 사용할 수 있습니다.
 일반 -> 로그인 항목 및 확장 프로그램에서 빌드한 앱을 넣으면 꺼지더라도 귀여운 스핔이를 다시 볼 수 있습니다
+
+## 설치 2 (zip받기)
+같이 올라가있는 `speaki_push.zip`파일을 풀어 안에 있는 app파일을 실행시키면 됩니다
+이 파일 또한 일반 -> 로그인 항목 및 확장 프로그램에서 빌드한 앱을 넣으면 꺼지더라도 귀여운 스핔이를 다시 볼 수 있습니다
 
 ## 파일 구조
 ```
