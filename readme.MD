@@ -61,7 +61,3 @@ SpeakyIsNotStupid/
 
 1. 앱을 실행하면 메뉴바에 애니메이션이 표시됩니다
 2. 종료하려면 메뉴바 아이콘을 클릭하고 "Quit" 선택
-
-## 라이선스
-
-MIT License
